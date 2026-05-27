@@ -1,0 +1,6 @@
+{
+  "en": ["total", "subtotal", "tax", "vat", "cash", "card", "change", "receipt", "invoice", "coupon", "discount", "deposit"],
+  "de": ["gesamt", "summe", "zwischensumme", "mwst", "ust", "bar", "karte", "rückgeld", "bon", "rabatt", "pfand"],
+  "ro": ["total", "subtotal", "tva", "bon fiscal", "numerar", "card", "rest", "reducere", "lei", "ron"],
+  "id": ["total", "subtotal", "ppn", "tunai", "kartu", "kembali", "kembalian", "diskon", "rp", "harga", "jumlah"]
+}
