@@ -1,0 +1,13 @@
+[
+  { "aliasText": "milk", "canonicalItemId": "milk", "languageCode": "en", "source": "seed" },
+  { "aliasText": "milch", "canonicalItemId": "milk", "languageCode": "de", "source": "seed" },
+  { "aliasText": "lapte", "canonicalItemId": "milk", "languageCode": "ro", "source": "seed" },
+  { "aliasText": "susu", "canonicalItemId": "milk", "languageCode": "id", "source": "seed" },
+  { "aliasText": "rice", "canonicalItemId": "rice", "languageCode": "en", "source": "seed" },
+  { "aliasText": "reis", "canonicalItemId": "rice", "languageCode": "de", "source": "seed" },
+  { "aliasText": "orez", "canonicalItemId": "rice", "languageCode": "ro", "source": "seed" },
+  { "aliasText": "beras", "canonicalItemId": "rice", "languageCode": "id", "source": "seed" },
+  { "aliasText": "detergent", "canonicalItemId": "detergent", "languageCode": "en", "source": "seed" },
+  { "aliasText": "waschmittel", "canonicalItemId": "detergent", "languageCode": "de", "source": "seed" },
+  { "aliasText": "deterjen", "canonicalItemId": "detergent", "languageCode": "id", "source": "seed" }
+]
