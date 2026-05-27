@@ -1,0 +1,41 @@
+[
+  {
+    "id": "milk",
+    "canonicalName": "milk",
+    "displayNameEn": "Milk",
+    "displayNameDe": "Milch",
+    "displayNameRo": "Lapte",
+    "displayNameId": "Susu",
+    "itemType": "grocery",
+    "pantryCategory": "dairy",
+    "defaultStorage": "fridge",
+    "defaultExpiryDays": 7,
+    "isPantryEligible": true
+  },
+  {
+    "id": "rice",
+    "canonicalName": "rice",
+    "displayNameEn": "Rice",
+    "displayNameDe": "Reis",
+    "displayNameRo": "Orez",
+    "displayNameId": "Beras",
+    "itemType": "grocery",
+    "pantryCategory": "grains_pasta_rice",
+    "defaultStorage": "pantry",
+    "defaultExpiryDays": 365,
+    "isPantryEligible": true
+  },
+  {
+    "id": "detergent",
+    "canonicalName": "detergent",
+    "displayNameEn": "Detergent",
+    "displayNameDe": "Waschmittel",
+    "displayNameRo": "Detergent",
+    "displayNameId": "Deterjen",
+    "itemType": "non_grocery",
+    "pantryCategory": "household_non_food",
+    "defaultStorage": "household",
+    "defaultExpiryDays": null,
+    "isPantryEligible": false
+  }
+]
